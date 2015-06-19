@@ -1,0 +1,23 @@
+body {
+	background-color: #29547f;
+	text-align: center;
+	color: white;
+	
+
+}
+#h1 {
+	color: #9cbfe3;
+
+}
+
+#slogan {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+#img  {
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
