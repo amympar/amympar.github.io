@@ -18,6 +18,11 @@ body {
 #img  {
     padding: 25px;
 }
-ul {
+#ul {
       list-style-type: none;
 }
+
+.mailto {
+	color: #f6fafe
+}
+
