@@ -1,19 +1,21 @@
 body {
 	background-color: #29547f;
-	font-family: 'Chicle', serif;
-	font-size: 22px;
+	font-family: 'Imprima', serif;
+	font-size: 18px;
 	text-align: center;
 	color: white;
 	
 
 }
 #h1 {
+	font-family: 'Chicle', serif;
 	font-size: 60px;
 	font-weight: 200;
 	color: #9cbfe3;
 }
 
 #slogan {
+	font-family: 'Chicle', serif;
 	font-size: 30px;
 	text-decoration: underline;
 }
