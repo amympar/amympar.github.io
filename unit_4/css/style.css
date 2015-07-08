@@ -1,33 +1,29 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-color: #29547f;
 	font-family: 'Imprima', serif;
 	font-size: 18px;
 	text-align: center;
 	color: white;
-	
-
 }
-#h1 {
+h1 {
 	font-family: 'Chicle', serif;
 	font-size: 60px;
 	font-weight: 200;
 	color: #9cbfe3;
 }
 
-#slogan {
-	font-family: 'Chicle', serif;
-	font-size: 30px;
-	text-decoration: underline;
+img  {
+ 	padding: 20px;
 }
-
-#img  {
-    padding: 20px;
-}
-#ul {
-      list-style-type: none;
+ul {
+ 	list-style-type: none;
 }
 
 .mailto {
-	color: #f6fafe
+	color: #f6fafe;
 }
-
+#slogan {
+	font-family: 'Chicle', serif;
+	font-size: 30px;
+}
