@@ -1,5 +1,11 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
+-- add clear fixes 
+-- float paragraphs
+-- make articles adjust to page width
+-- line breaks should be between 45-70 
+
+
 body {
 	background-color: #29547f;
 	font-family: 'Imprima', serif;
@@ -64,7 +70,8 @@ article p {
 	font-size: 1.75em;
 }
 
-@media screen and (max-width: 568) {
+--fix this to allow for larger views
+@media only screen and (max-width: 568px) {
 	img {
 	width: 100%;
 	}
