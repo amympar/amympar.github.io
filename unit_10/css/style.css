@@ -23,7 +23,7 @@ h3 {
 }
 
 img  {
-	width: 25%;
+	width: 30%;
  	padding: 1em;
 }
 
@@ -47,7 +47,6 @@ article img {
 article p {
 	text-align: left; 
 	max-width: 80%;
-	padding-top: 3.5em;
 }
 
 
@@ -92,7 +91,6 @@ article p {
 	article p {
 		text-align: center;
 		max-width: 95%;
-		padding: 0em;
 }
 
  	#slogan {
