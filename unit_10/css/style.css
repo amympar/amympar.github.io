@@ -28,12 +28,14 @@ img  {
 }
 
 section {
-	max-width: 100%;
-    margin: 0 5%;
+	max-width: 80%;
+    margin: auto;
 }
 
 article {
-	clear: both; 
+	clear: both;
+	max-width: 95%;
+	margin: auto; 
 }
 
 article img {
@@ -44,6 +46,8 @@ article img {
 
 article p {
 	text-align: left; 
+	max-width: 80%;
+	padding-top: 3.5em;
 }
 
 
@@ -67,16 +71,33 @@ article p {
 	font-size: 1.75em;
 }
 
-@media only screen and (max-width: 568px) {
+@media only screen and (max-width: 768px) {
 	img {
 	width: 100%;
 	}
 
+	h1 {
+		max-width: 95%;
+	}
+
+	h3 {
+		text-align: center;
+	}
+
 	article img {
-  float: none;
-  margin: 0 auto;
+ 		float: none;
+  		margin: 0 auto;
 }
 
+	article p {
+		text-align: center;
+		max-width: 95%;
+		padding: 0em;
+}
+
+ 	#slogan {
+ 		max-width: 95%;
+ 	}
 }
 
 	
